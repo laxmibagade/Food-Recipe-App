@@ -70,7 +70,7 @@ dependencies:
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/laxmibagade/food-recipe-app.git
+   git clone https://github.com/laxmibagade/Food-Recipe-App.git
    ```
 
 2. **Navigate to the project directory**
